@@ -20,6 +20,8 @@ I'm Brahim, ex-graphic and motion designer working now as a web developer
 ![](https://img.shields.io/badge/Figma-informational?style=flat&logo=Figma&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Wordpress-informational?style=flat&logo=Wordpress&logoColor=ColorName&color=black)
 
+## 🤔 I’ve interest in ...
+UX/UI and animation in web
 
 <!--
 **rum7/rum7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
