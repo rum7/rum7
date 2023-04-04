@@ -18,6 +18,7 @@ I'm Brahim, ex-graphic and motion designer working now as a web developer
 
 ## 🌱 I’m currently learning ...
 ![](https://img.shields.io/badge/Figma-informational?style=flat&logo=Figma&logoColor=ColorName&color=black)
+![](https://img.shields.io/badge/Vue.js-informational?style=flat&logo=vue.js&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Wordpress-informational?style=flat&logo=Wordpress&logoColor=ColorName&color=black)
 
 ## 🤔 I’ve interest in ...
